@@ -26,6 +26,6 @@ ENDPOINT - <a href="http://localhost:8000/api/list/">http://localhost:8000/api/l
 <br/><br/>
 Make a POST request to the ENDPOINT <br/>
 <b>To search for any country </b><br/>
-ENDPOINT - <a href="http://localhost:8000/country_info/">http://localhost:8000/api/create/</a><br/>
+ENDPOINT - <a href="http://localhost:8000/country_info/">http://localhost:8000/country_info/</a><br/>
 <br/><br/>
 
